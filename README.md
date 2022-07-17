@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Frontend Mentor - Testimonials grid section solution]()
+- Live Site URL: [Frontend Mentor - Testimonials grid section solution](https://testinomial-grid-section-solution.netlify.app)
 
 ### Built with
 
@@ -46,5 +46,5 @@ While working on this project I learned concepts like :-
 
 ## Author
 
-- Website - [Frontend Mentor - Testimonials grid section solution]()
+- Website - [Frontend Mentor - Testimonials grid section solution](https://testinomial-grid-section-solution.netlify.app)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
